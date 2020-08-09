@@ -1,0 +1,24 @@
+{
+  "name": "flush-redis-keys",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "ioredis": "^4.17.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbey007/delete-redis-key-using-scan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abbey007/delete-redis-key-using-scan/issues"
+  },
+  "homepage": "https://github.com/abbey007/delete-redis-key-using-scan#readme",
+  "description": "flush multiple redis keys using scan and pipeline from a huge redis database by using prefix, middle or suffix of keys from any redis database."
+}

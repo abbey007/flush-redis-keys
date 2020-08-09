@@ -1,0 +1,15 @@
+storage
+browser
+logs
+node_modules
+test
+initialize.js
+dump.rdb
+*.DS_Store
+.DS_STORE
+.env
+.vscode
+.idea
+package-lock.json
+test.js
+feedFiles
